@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @BillyRonico412
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a master's student in computer science at Toulouse's Paul Sabatier University 👨‍🎓 and a freelancer in my spare time. 
 
-<!---
-BillyRonico412/BillyRonico412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a TypeScript 💻 Full Stack developer. I'm versatile and master the various stages involved in creating a web or mobile application. 
+
+From understanding user needs, to frontend and backend development right through to deployment 🚀. In love with the strong typing offered by TypeScript, I'm very interested in tRPC technology.
