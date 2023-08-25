@@ -14,6 +14,5 @@ From understanding user needs, to frontend and backend development right through
 - [![Astro](https://img.shields.io/badge/Astro-gray?style=for-the-badge&logo=astro)](https://docs.astro.build/fr/getting-started/)
 - [![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
-## Favorite project
-- [Fidelity-client](https://github.com/BillyRonico412/fidelity-client)
-- [Fidelity-business](https://github.com/BillyRonico412/fidelity-business)
+## Contact
+- [Website 🕸️](https://ronico-billy.fr)
