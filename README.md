@@ -6,7 +6,7 @@ From understanding user needs, to frontend and backend development right through
 ## Favorites technologies
 - [![Typescript](https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 - [![React](https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript)](https://react.dev/)
-- [![Tailwind](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=tailwind)](https://tailwindcss.com/docs/overflow)
+- [![Tailwind](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/docs/overflow)
 - [![Capacitor](https://img.shields.io/badge/Capacitor-gray?style=for-the-badge&logo=capacitor)](https://capacitorjs.com/)
 - [![Firebase](https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 - [![tRPC](https://img.shields.io/badge/tRPC-gray?style=for-the-badge&logo=trpc)](https://trpc.io/docs)
