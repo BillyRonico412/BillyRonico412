@@ -1,18 +1,27 @@
-## Presentation
-I'm a master's student in computer science at Toulouse 🇫🇷 's Paul Sabatier University 👨‍🎓 and a freelancer in my spare time. 
-I'm a TypeScript 💻 Full Stack developer. I'm versatile and master the various stages involved in creating a web or mobile application. 
-From understanding user needs, to frontend and backend development right through to deployment 🚀. 
+## 👋 Je suis Ronico Billy
 
-## Favorites technologies
-- [![Typescript](https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-- [![React](https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript)](https://react.dev/)
-- [![Tailwind](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/docs/overflow)
-- [![Capacitor](https://img.shields.io/badge/Capacitor-gray?style=for-the-badge&logo=capacitor)](https://capacitorjs.com/)
-- [![Firebase](https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
-- [![tRPC](https://img.shields.io/badge/tRPC-gray?style=for-the-badge&logo=trpc)](https://trpc.io/docs)
-- [![Directus](https://img.shields.io/badge/Directus-gray?style=for-the-badge&logo=directus)](https://docs.directus.io/)
-- [![Astro](https://img.shields.io/badge/Astro-gray?style=for-the-badge&logo=astro)](https://docs.astro.build/fr/getting-started/)
-- [![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)](https://www.docker.com/)
+### Développeur Full Stack & Freelance
 
-## Contact
-- [Website 🕸️](https://www.ronico-billy.fr)
+🚀 Prêt à transformer vos idées en applications performantes ? Riche d'une expérience concrète à travers de nombreux projets réussis, je transforme votre vision et vos idées en solutions logicielles concrètes.
+
+---
+
+### ⚙️ Ce qui me distingue
+
+- **🎯 Maîtrise complète du cycle de développement** :
+  - 📋 Analyse approfondie des besoins et conception d'architecture
+  - 📋 Développement frontend moderne et responsive avec Next.js et React
+  - 📱 Développement Desktop et Mobile avec PWA
+  - ⚙️ Backend robuste avec Node.js, Hono, tRPC
+  - 🚀 Déploiement et devOPS sur un VPS ou le cloud
+
+- **🛡️ Sécurité et fiabilité de bout en bout** :
+  - ✨ TypeScript pour un code sécurisé et maintenable
+  - 🔄 tRPC pour une communication type-safe entre frontend et backend
+  - 🗄️ Prisma pour une gestion sécurisée des données
+
+- **🤝 Partenaire stratégique et expérimenté** :
+  - 🎯 Véritable allié technique à vos côtés
+  - 📊 Compréhension approfondie de vos enjeux
+  - 💡 Analyse détaillée de vos besoins
+  - ✨ Solutions optimales alignées avec vos objectifs
